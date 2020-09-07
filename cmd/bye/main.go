@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Saying Bye")
+	fmt.Println("Saying Bye from github")
 	fmt.Println(morestrings.ReverseRunes("!oG ,olleH"))
 }
