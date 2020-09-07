@@ -1,3 +1,3 @@
-module github.com.com/schidurala/hello
+module github.com/schidurala/hello
 
 go 1.15
