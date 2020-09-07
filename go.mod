@@ -1,3 +1,3 @@
-module cardigan.com/user/hello
+module github.com.com/schidurala/hello
 
 go 1.15
